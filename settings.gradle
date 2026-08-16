@@ -1,0 +1,2 @@
+rootProject.name = "Tyson"
+include ':app'

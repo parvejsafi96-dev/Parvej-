@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tyson</string>
+    <string name="accessibility_service_description">Tyson accessibility service (required to control device)</string>
+</resources>
